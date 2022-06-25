@@ -37,7 +37,7 @@
   "devDependencies": {
     "@commitlint/utils": "^17.0.0",
     "@types/lodash": "^4.14.161",
-    "globby": "^11.0.0"
+    "globby": "^13.0.0"
   },
   "dependencies": {
     "@commitlint/types": "^17.0.0",
